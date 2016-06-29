@@ -1,9 +1,9 @@
 {
-  "name": "react-highlight.js",
+  "name": "@episodeyang/react-highlight.js",
   "description": "A lightweight React wrapper around the Highlight.js syntaxt highlighting library",
   "main": "dist/main.js",
   "author": "Brian Vaughn",
-  "user": "bvaughn",
+  "user": "episodeyang",
   "version": "1.0.2",
   "scripts": {
     "build": "npm run build:website && npm run build:dist",
@@ -23,11 +23,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bvaughn/react-highlight.js.git"
+    "url": "https://github.com/episodeyang/@episodeyang/react-highlight.js.git"
   },
-  "homepage": "https://github.com/bvaughn/react-highlight.js/",
+  "homepage": "https://github.com/episodeyang/@episodeyang/react-highlight.js/",
   "bugs": {
-    "url": "https://github.com/bvaughn/react-highlight.js/issues"
+    "url": "https://github.com/episodeyang/@episodeyang/react-highlight.js/issues"
   },
   "keywords": [
     "react",
